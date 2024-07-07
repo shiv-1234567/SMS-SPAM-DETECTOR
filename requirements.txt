@@ -1,4 +1,4 @@
-pickle
+
 string
 nltk
 scikit-learn
