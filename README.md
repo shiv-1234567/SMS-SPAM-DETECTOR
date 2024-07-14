@@ -6,5 +6,13 @@ steps DONE IN THIS PROJECT
 3RD USED MULTINOMAIL NAIVE BAYES AS ITS PRECISION & ACCURACY WAS BEST AMONG ALL TEH MODELS CHECKED.
 THEN IMPORTED NECESSARY PKL FILE USING PCKLE SUCH AS VECTORIZER TO CONVERT INPUT TEXT TO NUMERIC & MODEL OBJ TO TARIN & PREDICT AND DEPLOYED THE MODEL ON STEAMLIT.
 
-LINK FOR STERAMLIT WE APP; https://sms-spam-detector-76frah46oznqqrymsxiahv.streamlit.app/
+LINK FOR STERAMLIT WEB APP; https://sms-spam-detector-76frah46oznqqrymsxiahv.streamlit.app/
+
+FEW GLIMPSES OF WEBAPP;
+![image](https://github.com/user-attachments/assets/160fd963-eddc-4c42-aa16-6b7cc97c529a)
+![image](https://github.com/user-attachments/assets/21ba8bc0-de72-4275-a5c5-3dcddbe60190)
+
+
+
 THANKS & HAPPY LEARNING.
+
